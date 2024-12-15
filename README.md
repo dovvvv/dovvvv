@@ -1,6 +1,6 @@
 # About Dov
 
-👋 Hello! I’m Dov.
+👋 Hello! I’m Dovvvv
 
 🌱 Passionate about coding, I specialize in TypeScript, Python, MongoDB, and Vector databases, with a strong focus on RAG-based systems.
 
